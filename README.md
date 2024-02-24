@@ -16,9 +16,11 @@ Use cv2.VideoCapture(0) to access web camera
 ### Step 2:
 <br>
 Use cv2.imread to read the video or image
+
 ### Step 3:
 <br>
 Use cv2.imwrite to save the image
+
 ### Step 4:
 <br>
 Use cv2.imshow to show the video
